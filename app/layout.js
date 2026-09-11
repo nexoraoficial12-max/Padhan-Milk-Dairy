@@ -1,3 +1,4 @@
+import './globals.css';
 export const metadata = {
   title: 'Padhan Milk Dairy',
   description: 'Fresh Milk, Paneer, Ghee, Dahi and Sweets',
